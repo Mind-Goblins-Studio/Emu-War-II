@@ -4,4 +4,6 @@ GameBlurb: Inspired by the events of the Great Emu War of 1932, Emu War II by Mi
 
 GameplayVideo: https://www.youtube.com/watch?v=0YUfssKzXRA
 
+PLAY AT: https://mind-goblins-studio.github.io/Emu-War-II-WebGL/
+
 For more details about the game, have a look at the detailed game design document
