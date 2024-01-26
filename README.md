@@ -7,3 +7,10 @@ Gameplay Video: https://www.youtube.com/watch?v=0YUfssKzXRA
 PLAY AT: https://mind-goblins-studio.github.io/Emu-War-II-WebGL/
 
 For more details about the game, have a look at the detailed [Game Design Document](https://github.com/Mind-Goblins-Studio/Emu-War-II/blob/main/GDD.md)
+
+#### Game by Mind Goblin Studios:
+- Jack Perry
+- Ayush Tyagi
+- Josh Costa
+- Connor Liu
+
